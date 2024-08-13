@@ -1,0 +1,3 @@
+[submodule "hailo-rpi5-examples"]
+	path = hailo-rpi5-examples
+	url = https://github.com/hailo-ai/hailo-rpi5-examples.git
